@@ -10,3 +10,7 @@ Most of the papers will have highlighted text,comments which I added at the time
 
 
 Hope you find these papers useful!!
+
+2023
+
+[Multimodal Deep Learning](https://slds-lmu.github.io/seminar_multimodal_dl/)
